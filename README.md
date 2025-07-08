@@ -56,9 +56,7 @@ The **Furuta Pendulum** is a nonlinear, underactuated system used extensively to
 
 We use a **Linear Quadratic Regulator (LQR)** to minimize the following cost function:
 
-\[
-J = \int (x^T Q x + u^T R u) dt
-\]
+J = ∫ (xᵀ Q x + uᵀ R u) dt
 
 Where:
 
@@ -67,9 +65,7 @@ Where:
 - `K`: Feedback gain matrix computed via `lqr(A, B, Q, R)`  
 
 The control law is:  
-\[
 u = -Kx
-\]
 
 ---
 
