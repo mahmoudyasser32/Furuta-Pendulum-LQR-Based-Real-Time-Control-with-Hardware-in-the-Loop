@@ -1,0 +1,2 @@
+# Furuta-Pendulum-LQR-Based-Real-Time-Control-with-Hardware-in-the-Loop
+This project implements a full modeling, simulation, and real-time control solution for the Furuta Pendulum (rotary inverted pendulum) system using MATLAB/Simulink and embedded hardware (ESP32 + sensors). The control system is designed using Linear Quadratic Regulator (LQR) methods and validated through Hardware-in-the-Loop (HIL) simulation.
