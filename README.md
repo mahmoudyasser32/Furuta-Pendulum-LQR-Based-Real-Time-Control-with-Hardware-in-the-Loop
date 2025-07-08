@@ -8,7 +8,7 @@ This repository contains a complete implementation of a control system for a **F
 ---
 
 ## 📽️ Demo
-👉 [Watch System Demo]([https://drive.google.com/file/d/1tvSFMBx72GJj9IXAS10luPX_5w33Nhrb/view?usp=drive_link](https://drive.google.com/drive/folders/1fIQUdqwEO8X18ntienZXbj5KmCsnl9it?usp=sharing))
+👉 [Watch System Demo](https://drive.google.com/drive/folders/1fIQUdqwEO8X18ntienZXbj5KmCsnl9it?usp=drive_link)
 
 ---
 
