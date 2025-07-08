@@ -99,17 +99,3 @@ u = -Kx
 
 ---
 
-## 📂 Files Structure
-
-```
-Furuta-Pendulum/
-│
-├── /MATLAB_Simulation/     # Simulink and LQR modeling
-├── /HIL_Code/              # ESP32 firmware and communication scripts
-├── /Images/                # System and result plots
-├── /videos/                # System videos
-├── Report.pdf              # Full documentation
-└── README.md               # This file
-```
-
-
