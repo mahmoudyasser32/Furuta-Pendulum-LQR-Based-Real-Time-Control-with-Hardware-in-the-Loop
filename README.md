@@ -101,3 +101,22 @@ u = -Kx
 
 ## 📂 Files Structure (Suggested)
 
+Furuta-Pendulum/
+│
+├── /MATLAB_Simulation/ # Simulink and LQR modeling
+├── /HIL_Code/ # ESP32 firmware and communication scripts
+├── /Images/ # System and result plots
+├── /videos/ # System videos
+├── Report.pdf # Full documentation
+└── README.md # This file
+
+---
+
+## 🧾 Citation
+
+If you use this work or build upon it, please cite the original project and authors.
+
+Furuta Pendulum – LQR-Based Real-Time Control with HIL, Ain Shams University, 2025.
+
+---
+
