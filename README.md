@@ -110,13 +110,3 @@ Furuta-Pendulum/
 ├── Report.pdf # Full documentation
 └── README.md # This file
 
----
-
-## 🧾 Citation
-
-If you use this work or build upon it, please cite the original project and authors.
-
-Furuta Pendulum – LQR-Based Real-Time Control with HIL, Ain Shams University, 2025.
-
----
-
