@@ -47,7 +47,7 @@ The **Furuta Pendulum** is a nonlinear, underactuated system used extensively to
 ## 🧰 Software Stack
 
 - MATLAB / Simulink
-- Embedded C (for ESP32 via Arduino IDE or ESP-IDF)
+- Embedded C (for ESP32 via Arduino IDE)
 - SolidWorks (for mechanical design & parameter extraction)
 
 ---
