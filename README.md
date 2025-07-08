@@ -8,7 +8,7 @@ This repository contains a complete implementation of a control system for a **F
 ---
 
 ## 📽️ Demo
-👉 [Watch System Demo & Documentation](https://drive.google.com/file/d/1tvSFMBx72GJj9IXAS10luPX_5w33Nhrb/view?usp=drive_link)
+👉 [Watch System Demo]([https://drive.google.com/file/d/1tvSFMBx72GJj9IXAS10luPX_5w33Nhrb/view?usp=drive_link](https://drive.google.com/drive/folders/1fIQUdqwEO8X18ntienZXbj5KmCsnl9it?usp=sharing))
 
 ---
 
@@ -79,7 +79,7 @@ u = -Kx
 - ✔️ System responds robustly to external disturbances
 - ✔️ HIL test matches simulation performance
 
-![System Model](images/system_model.png)
+![system design](images/system_design.png)
 ![Disturbance Rejection](images/disturbance_rejection.png)
 
 ---
